@@ -1,0 +1,40 @@
+.background{
+    height: 40vh;
+    background-image: url(../pic/background-01.jpg);
+    background-size: cover;
+
+}
+
+.h1-custom{
+    margin-top: 125px;
+}
+
+.middle{
+    /* height: 100vh; */
+    background-color: rgba(0, 0, 0, 0.08);
+    padding: 1px 0;
+}
+
+.end{
+    height: 40vh;
+}
+
+.footer-custom{
+    background-color: #333333;
+    color: white;
+}
+
+.right, .left{
+    height: 80vh;
+    /* border: 5px solid black; */
+}
+
+.main{
+    height: 23vh;
+    /* margin-top: 20px; */
+}
+
+.new{
+    display: inline-block;
+    padding-right: 75px;
+}

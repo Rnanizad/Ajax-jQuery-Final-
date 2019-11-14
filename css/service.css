@@ -1,0 +1,51 @@
+.background{
+    height: 40vh;
+    background-image: url(../pic/background-01.jpg);
+    background-size: cover;
+
+}
+
+.h1-custom{
+    margin-top: 125px;
+}
+
+.middle{
+    height: 133vh;
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+.end{
+    height: 40vh;
+}
+
+.footer-custom{
+    background-color: #333333;
+    color: white;
+}
+
+.right, .left{
+    height: 80vh;
+    /* border: 5px solid black; */
+}
+
+.service img{
+    width: 100%;
+    cursor: pointer;
+}
+
+.user-photo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 30px 430px;
+}
+
+.user-photo img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.h6-new, .h2-new{
+    padding: 0 215px;
+}
